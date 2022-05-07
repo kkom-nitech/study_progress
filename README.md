@@ -9,8 +9,12 @@ For study progress
 - [grant](https://drive.google.com/drive/folders/1-Au9WN15cB3PssPFAy7E4jo2upe563Ji?usp=sharing)
 - [student](https://drive.google.com/drive/folders/1-AIkZ7sS1kGOaTLfXyxWX6rO_jrJ9poJ?usp=sharing)
 
-#ToDo
+# ToDo
 - 文献27読む、スライド作成
 - ユーザー関数理解
 - 研究計画執筆
 - 研究費申請書執筆
+
+# Update
+- READMEを書いた
+- hoge
