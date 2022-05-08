@@ -17,5 +17,8 @@ For study progress
 - git hub teams連携 -> test -> test
 
 # Update
-- READMEを書いた
+## 0508
 - github for teams 導入
+- 研究計画書, 研究費申請書執筆
+## 0507
+- READMEを書いた
