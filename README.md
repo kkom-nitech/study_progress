@@ -14,6 +14,7 @@ For study progress
 - ユーザー関数理解
 - 研究計画執筆
 - 研究費申請書執筆
+- git hub teams連携 -> test
 
 # Update
 - READMEを書いた
