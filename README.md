@@ -10,15 +10,9 @@ For study progress
 - [student](https://drive.google.com/drive/folders/1-AIkZ7sS1kGOaTLfXyxWX6rO_jrJ9poJ?usp=sharing)
 
 # ToDo
-- 文献27読む、スライド作成
-- ユーザー関数理解
-- 研究計画執筆
-- 研究費申請書執筆
-- git hub teams連携 -> test -> test
+- ユーザー関数：図化ファイル出力スキップの実装
+- ユーザー関数：FDありでの解析実施
+- ユーザー関数：パラメータ調整し3周期程度で血栓の成長を確認する
+- 授業：受講
+- その他：名古屋訪問日調整
 
-# Update
-## 0508
-- github for teams 導入
-- 研究計画書, 研究費申請書執筆
-## 0507
-- READMEを書いた
