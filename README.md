@@ -10,10 +10,9 @@ For study progress
 - [student](https://drive.google.com/drive/folders/1-AIkZ7sS1kGOaTLfXyxWX6rO_jrJ9poJ?usp=sharing)
 
 # ToDo
-- ユーザー関数：図化ファイル出力スキップの実装
-- ユーザー関数：FDありでの解析実施
-- ユーザー関数：パラメータ調整し3周期程度で血栓の成長を確認する
+- 設定パラメータの計算
+- 結果の分析（血栓領域）
+- 機序の検討
 - 授業：受講
-- その他：名古屋訪問日調整
-- その他：論文レポジトリ作成
+- その他：訪問時のスケジュール決定
 
