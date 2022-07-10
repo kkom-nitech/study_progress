@@ -10,9 +10,10 @@ For study progress
 - [student](https://drive.google.com/drive/folders/1-AIkZ7sS1kGOaTLfXyxWX6rO_jrJ9poJ?usp=sharing)
 
 # ToDo
-- 設定パラメータの計算
-- 結果の分析（血栓領域）
-- 機序の検討
+- PARAVIEW出力方法の検討
+- PARAVIEW出力方法の実装
+- プログラムのBranch checkout方法の調査
+- 文献調査
+  - 血栓形成機序
 - 授業：受講
-- その他：訪問時のスケジュール決定
 
